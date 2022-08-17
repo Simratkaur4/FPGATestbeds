@@ -1,2 +1,2 @@
 # FPGATestbeds
-OCT-MOC and CRNCH Rogues access documentation
+OCT-MOC and Georgia Tech CRNCH Rogues access documentation
